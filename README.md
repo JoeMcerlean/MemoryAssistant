@@ -1,0 +1,2 @@
+# MemoryAssistant
+An Android application designed to replicate the non-digital Paired-Associated Learning Test (PAL) into a digital format. The purpose of this was to highlight early signs of dementia such as Mild Cognitive Impairment (MCI) in the user. The concept was originally designed to simplify user access to such diagnosis methods but after research was decidedly potentially better used as a preventative method from users to further developing dementia by completing the cognitive actions on their device.
